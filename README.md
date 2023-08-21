@@ -1,17 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&height=150&section=header&text=Yeong&nbsp;woo&fontColor=ffffff&fontSize=70&animation=fadeIn)
 <div> 
-<br>
-<br>
-<br>
-  
-#### :wave: Welcome to my github profile !
-이해하며 성장하는 개발자가 되고자 하는 강영우입니다
-
-
-<br>
-<br>
-<br>
-
   
 ####  :heart:  Stacks I mainly used ...
 
@@ -21,8 +9,6 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> 
 <br/>
 
-<br>
-<br>
 <br>
 
 #### :fire: 프로젝트 경험
@@ -36,7 +22,6 @@
 링크: https://github.com/ssj946/SYLMS
 
 <br>
-<br>
 
 **DASH (서울시 지하철 정보를 활용한 공유이동수단 추천 프로그램)**
 <br>
@@ -49,8 +34,6 @@
 <br>
 링크: https://github.com/Yeongwookang/DASH
 
-<br>
-<br>
 <br>
 
 
@@ -71,9 +54,6 @@
 <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
 <br>
 
-<br>
-<br>
-<br>
 
 #### 🌱 I’m currently learning ...
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
