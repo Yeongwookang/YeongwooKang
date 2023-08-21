@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&height=150&section=header&text=Yeong&nbsp;woo&fontColor=ffffff&fontSize=70&animation=fadeIn)
 <div> 
   
-####  :heart:  Stacks I mainly used ...
+####  :heart:  주로 사용하는 기술스택
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -37,7 +37,7 @@
 <br>
 
 
-####  :clipboard:  I can use also ...
+####  :clipboard:  사용해본 기술스택
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
 <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
@@ -55,7 +55,7 @@
 <br>
 
 
-#### 🌱 I’m currently learning ...
+#### 🌱 학습중인 기술스택
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
 <br>
