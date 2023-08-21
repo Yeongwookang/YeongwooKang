@@ -12,30 +12,9 @@
 <br>
 
 #### :fire: 프로젝트 경험
-**SYLMS(대학 학사관리 프로그램)**
-<br>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-<br>
-링크: https://github.com/ssj946/SYLMS
+https://github.com/Yeongwookang/MyNotes/tree/5c2c6700fa470c0b2b9f98ac12990bfdb7666d5a/Projects
 
 <br>
-
-**DASH (서울시 지하철 정보를 활용한 공유이동수단 추천 프로그램)**
-<br>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> 
-<img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<br>
-링크: https://github.com/Yeongwookang/DASH
-
-<br>
-
 
 ####  :clipboard:  사용해본 기술스택
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
