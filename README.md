@@ -12,7 +12,7 @@
 <br>
 
 #### :fire: 프로젝트 경험
-https://github.com/Yeongwookang/MyNotes/tree/5c2c6700fa470c0b2b9f98ac12990bfdb7666d5a/Projects
+https://github.com/Yeongwookang/MyNotes/tree/main/Projects
 
 <br>
 
